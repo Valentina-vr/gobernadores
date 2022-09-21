@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="Gobernadores.xsl" ?>
+<!--  -->
+<Votaciones>
+	<Votantes region="andina">
+		<Departamentos>Cundinamarca</Departamentos>
+		<Inscritos value="600">600</Inscritos>
+		<Partido1 value="100">100</Partido1>
+		<Partido2 value="120">120</Partido2>
+		<Partido3 value="180">180</Partido3>
+		<Blanco value="200">200</Blanco>
+	</Votantes>
+
+    <Votantes region="andina">
+		<Departamentos>Antioquia</Departamentos>
+		<Inscritos value="900">900</Inscritos>
+		<Partido1 value="300">300</Partido1>
+		<Partido2 value="110">110</Partido2>
+		<Partido3 value="120">120</Partido3>
+		<Blanco value="180">180</Blanco>
+	</Votantes>
+
+    <Votantes region="Pacifica">
+		<Departamentos>Valle</Departamentos>
+		<Inscritos value="890">890</Inscritos>
+		<Partido1 value="130">130</Partido1>
+		<Partido2 value="200">200</Partido2>
+		<Partido3 value="380">380</Partido3>
+		<Blanco value="130">130</Blanco>
+	</Votantes>
+
+    <Votantes region="Orinoquia">
+		<Departamentos>Arauca</Departamentos>
+		<Inscritos value="690">690</Inscritos>
+		<Partido1 value="140">140</Partido1>
+		<Partido2 value="108">108</Partido2>
+		<Partido3 value="130">130</Partido3>
+		<Blanco value="120">120</Blanco>
+	</Votantes>
+
+    <Votantes region="caribe"> 
+		<Departamentos>Atlantico</Departamentos>
+		<Inscritos value="790">790</Inscritos>
+		<Partido1 value="110">110</Partido1>
+		<Partido2 value="112">112</Partido2>
+		<Partido3 value="180">180</Partido3>
+		<Blanco value="105">105</Blanco>
+	</Votantes>
+	
+</Votaciones>
